@@ -42,6 +42,7 @@ body {
 }
 
 .qr-code__title {
+  font-size: clamp(15px, 5vw, 22px);
   font-weight: 700;
   line-height: 120%;
   letter-spacing: 0;
